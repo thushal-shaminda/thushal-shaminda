@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thushal Shaminda</h1>
 <h3 align="center">IT20216146</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thushal-shaminda&theme=blue-green)
+[![Thushal Shaminda's github stats](https://github-readme-stats.vercel.app/api?username=thushal-shaminda&theme=dark&show_icons=true)](https://github.com/thushal-shaminda)
 
 
 <h3 align="left">Languages and Tools:</h3>
