@@ -23,9 +23,7 @@ I am a Software Engineering undergraduate passionate about Programming. I like a
     <a href="https://www.hackerrank.com/thushals">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
-    <a href="https://github.com/thushal-shaminda">
-      <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white">
-    </a>
+    
   </div>
   
 ---
